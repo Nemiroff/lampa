@@ -37,7 +37,7 @@
           var autoCheck = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
           network.clear();
           network.timeout(10000);
-          network.silent("http://nemiroff.github.io/lampa/apk/info.json", function (found) {
+          network['native']("http://nemiroff.github.io/lampa/apk/info.json", function (found) {
             if (found) {
               if (semverCompare(found.version, current_version) > 0) {
                 if (autoCheck) {
