@@ -1,5 +1,5 @@
 {
-	"version": "7.7.8-104",
-	"changelog": "1. Добавлена поддержка плеера mpx-android.<br>2. Вернул системные панели.<br>",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.8-104.apk"
+	"version": "7.7.8-105",
+	"changelog": "1. Глобальный поиск через прокси.<br>2. Картинки каналов на Google TV.<br>3. Возможно еще что-то.<br><br>",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.8-105.apk"
 }
