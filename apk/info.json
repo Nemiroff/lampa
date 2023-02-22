@@ -1,5 +1,5 @@
 {
-	"version": "7.7.8-105",
-	"changelog": "1. Глобальный поиск через прокси.<br>2. Картинки каналов на Google TV.<br>3. Возможно еще что-то.<br><br>",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.8-105.apk"
+	"version": "7.7.8-106",
+	"changelog": "1. Запрос адреса лампы при первом запуске.<br>2. Поправлены трейлеры на Android 12.<br>3. Возможно еще что-то.<br><br>",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.8-106.apk"
 }
