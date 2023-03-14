@@ -1,5 +1,5 @@
 {
-	"version": "7.7.8-106",
-	"changelog": "1. Запрос адреса лампы при первом запуске.<br>2. Поправлены трейлеры на Android 12.<br>3. Возможно еще что-то.<br><br>",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.8-106.apk"
+	"version": "7.7.9-107",
+	"changelog": "1. Поправлено изменения адреса.<br>2. Поправлен порядок в канале История.<br>3. Добавлен канал Рекомендации.<br><br>",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-107.apk"
 }
