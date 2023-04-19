@@ -1,5 +1,5 @@
 {
-	"version": "7.7.9-107",
-	"changelog": "1. Поправлено изменения адреса.<br>2. Поправлен порядок в канале История.<br>3. Добавлен канал Рекомендации.<br><br>",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-107.apk"
+	"version": "7.7.9-108",
+	"changelog": "1. Добавлена возможность установки заголовков для native запросов.<br> Должно сказаться на работоспособности плагинов.",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-108.apk"
 }
