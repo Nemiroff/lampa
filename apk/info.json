@@ -1,5 +1,5 @@
 {
-	"version": "7.7.9-108",
-	"changelog": "1. Добавлена возможность установки заголовков для native запросов.<br> Должно сказаться на работоспособности плагинов.",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-108.apk"
+	"version": "7.7.9-109",
+	"changelog": "1. Поправлен запуст VLC на Android 13.<br> Поправлены native POST запросы.",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-109.apk"
 }
