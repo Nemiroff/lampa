@@ -105,5 +105,6 @@
     }
 
     if (!window.updater) startUpdater();
+    if (Lampa.Storage.get('jackett_url').toUpperCase() == 'JACRED.CF') Lampa.Storage.set('jackett_url', 'jacred.ru')
 
 })();
