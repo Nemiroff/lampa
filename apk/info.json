@@ -1,5 +1,5 @@
 {
-	"version": "7.7.9-110",
-	"changelog": "1. Поправлен запуск VLC на Android 13<br> Теперь точно поправлен.",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-110.apk"
+	"version": "7.7.9-111",
+	"changelog": "1. Поправлено автообновление на Android 13<br> Иногда придется обновить вручную.",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-111.apk"
 }

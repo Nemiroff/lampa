@@ -53,7 +53,7 @@
                     },
                     onSelect: function onSelect() {
                       if (semverCompare(current_version, "7.7.7-98") < 0) {
-                        Lampa.Noty.show("Для данной версии нет обновлений.");
+                        Lampa.Noty.show("Для данной версии нет поддержки автообновления. Обновите вручную.");
                       } else {
                         if (!started) {
                           started = true;
