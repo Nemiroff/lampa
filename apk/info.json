@@ -1,5 +1,5 @@
 {
-	"version": "7.7.9-111",
-	"changelog": "1. Поправлено автообновление на Android 13<br> Иногда придется обновить вручную.",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-111.apk"
+	"version": "7.7.9-112",
+	"changelog": "1. Исправление не работающей кнопки Back в некоторых случаях.",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-112.apk"
 }
