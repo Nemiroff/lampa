@@ -1,5 +1,5 @@
 {
-	"version": "7.7.9-114",
-	"changelog": "Необходимые изменения для работы торрентов",
-	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-114.apk"
+	"version": "7.7.9-115",
+	"changelog": "1. Включение широких постеров для каналов в лаунчере через меню.<br>2. Установка адреса по умолчанию в случае отмены диалога.",
+	"file_url": "http://nemiroff.github.io/lampa/apk/LampaTV_v7.7.9-115.apk"
 }
